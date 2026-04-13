@@ -1,0 +1,2 @@
+mongodb+srv://gopesh__007:<Glador%24007
+>@cluster0.15pxeaa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
