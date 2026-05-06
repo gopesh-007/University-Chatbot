@@ -19,7 +19,7 @@ Developed during a final semester internship at HYPX ECOSYSTEM LLP, this project
 
 ## 📄 Project Documentation
 * [Read the Full Project Report](docs/Gopesh_Report.pdf)
-* [View the Presentation Slides](docs/University_ChatBot_PPT.pdf)
+* [View the Presentation Slides](docs/University ChatBot PPT.pdf)
 
 ## ⚙️ How to Run Locally
 
