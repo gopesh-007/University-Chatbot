@@ -14,7 +14,6 @@ Developed during a final semester internship at HYPX ECOSYSTEM LLP, this project
 * **Databases:** MongoDB (NoSQL), SQLite (Relational)
 
 ## 📸 Interface Sneak Peek
-*(You can add screenshots of your app here!)*
 * [View Chatbot Home](assets/Home_of_chatbot.jpg)
 * [View Admin Panel](assets/admin_panel.jpg)
 
